@@ -15,7 +15,7 @@ public class Copiagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         int a= 3, b= 7;
+         int a= 3, b= 10;
         int c= a+b;
         System.out.println("El resultado es: "+c);
     }
